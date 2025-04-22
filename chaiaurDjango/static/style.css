@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(6, 6, 80);
+    width: full;
+    justify-content: center;
+}
+
+h1 {
+    color: rgb(218, 213, 213);
+    align-items: center;
+}
